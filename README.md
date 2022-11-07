@@ -1,2 +1,2 @@
-# Ola
- Primeiro Repositorio GitHub
+# Beecrowd Solutions
+Languages : C++, Python
